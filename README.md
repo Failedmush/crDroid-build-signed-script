@@ -10,7 +10,6 @@ This script only works for password-less keys (DO NOT SET A PASSWORD) *This is d
 1. Download the script in your root build directory and run it
 
 wget https://raw.githubusercontent.com/crdroidandroid/crDroid-build-signed-script/16.0/create-signed-env.sh
-)`
 
 `chmod +x create-signed-env.sh`
 
